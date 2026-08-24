@@ -30,6 +30,7 @@ I currently focus on full-stack engineering and practical AI agent infrastructur
 
 ### Public work
 
+- [MCP Trace Lab](https://github.com/TolkmisLK/mcp-trace-lab) — a local-first MCP stdio flight recorder with transparent stream forwarding, redacted JSONL traces, request/response correlation, strict TypeScript, integration tests, and CI.
 - [NCC Engineering Portfolio](https://github.com/TolkmisLK/TolkmisLK.github.io) — a bilingual, accessible, statically exported Next.js portfolio with automated checks and GitHub Pages deployment.
 
 More projects will be published only when they are ready to run, review, and maintain.
@@ -58,6 +59,7 @@ More projects will be published only when they are ready to run, review, and mai
 
 ### 公开项目
 
+- [MCP Trace Lab](https://github.com/TolkmisLK/mcp-trace-lab) — 本地优先的 MCP stdio 飞行记录器，包含透明流转发、脱敏 JSONL 追踪、请求响应关联、严格 TypeScript、集成测试与 CI。
 - [NCC 工程师主页](https://github.com/TolkmisLK/TolkmisLK.github.io) — 中英双语、支持无障碍访问的 Next.js 静态主页，包含自动化检查和 GitHub Pages 部署流程。
 
 后续项目只会在达到可运行、可审查、可维护标准后公开。
