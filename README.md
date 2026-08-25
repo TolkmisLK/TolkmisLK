@@ -30,6 +30,7 @@ I currently focus on full-stack engineering and practical AI agent infrastructur
 
 ### Public work
 
+- [Reliable Webhook Delivery Platform](https://github.com/TolkmisLK/webhook-delivery-platform) — a production-style Java 21 and React system with a durable PostgreSQL queue, idempotency, signed delivery, bounded retries, SSRF defenses, Testcontainers integration testing, Docker, OpenAPI, and CI.
 - [MCP Trace Lab](https://github.com/TolkmisLK/mcp-trace-lab) — a local-first MCP stdio flight recorder with transparent stream forwarding, redacted JSONL traces, request/response correlation, strict TypeScript, integration tests, and CI.
 - [NCC Engineering Portfolio](https://github.com/TolkmisLK/TolkmisLK.github.io) — a bilingual, accessible, statically exported Next.js portfolio with automated checks and GitHub Pages deployment.
 
@@ -59,6 +60,7 @@ More projects will be published only when they are ready to run, review, and mai
 
 ### 公开项目
 
+- [可靠 Webhook 投递平台](https://github.com/TolkmisLK/webhook-delivery-platform) — 使用 Java 21 与 React 构建的生产风格系统，包含 PostgreSQL 持久化队列、幂等控制、签名投递、有界重试、SSRF 防护、Testcontainers 集成测试、Docker、OpenAPI 与 CI。
 - [MCP Trace Lab](https://github.com/TolkmisLK/mcp-trace-lab) — 本地优先的 MCP stdio 飞行记录器，包含透明流转发、脱敏 JSONL 追踪、请求响应关联、严格 TypeScript、集成测试与 CI。
 - [NCC 工程师主页](https://github.com/TolkmisLK/TolkmisLK.github.io) — 中英双语、支持无障碍访问的 Next.js 静态主页，包含自动化检查和 GitHub Pages 部署流程。
 
