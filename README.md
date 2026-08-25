@@ -60,7 +60,7 @@ More projects will be published only when they are ready to run, review, and mai
 
 ### 公开项目
 
-- [可靠 Webhook 投递平台](https://github.com/TolkmisLK/webhook-delivery-platform) — 使用 Java 21 与 React 构建的生产风格系统，包含 PostgreSQL 持久化队列、幂等控制、签名投递、有界重试、已提交尝试诊断、事务提交后遥测、SSRF 防护、Testcontainers 集成测试、Docker、OpenAPI 与 CI。
+- [可靠 Webhook 推送平台](https://github.com/TolkmisLK/webhook-delivery-platform) — 使用 Java 21 与 React 构建的生产风格系统，包含 PostgreSQL 持久化队列、幂等控制、签名推送、有界重试、已提交尝试诊断、事务提交后遥测、SSRF 防护、Testcontainers 集成测试、Docker、OpenAPI 与 CI。
 - [MCP Trace Lab](https://github.com/TolkmisLK/mcp-trace-lab) — 本地优先的 MCP stdio 飞行记录器，包含透明流转发、脱敏 JSONL 追踪、请求响应关联、严格 TypeScript、集成测试与 CI。
 - [NCC 工程师主页](https://github.com/TolkmisLK/TolkmisLK.github.io) — 中英双语、支持无障碍访问的 Next.js 静态主页，包含自动化检查和 GitHub Pages 部署流程。
 
