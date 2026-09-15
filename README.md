@@ -6,9 +6,6 @@ Software engineer · Full-stack development · AI agents
 
 ## English
 
-I'm a software engineer with six years of experience. I've worked on Flutter and Vue apps, enterprise management and auction systems, and healthcare IoT integrations. My current interests are full-stack development, AI agents, and MCP tooling.
-
-I use TypeScript, React, Vue, and Flutter for interfaces, and Node.js, Python, and Java / Spring for backend work.
 
 ### Projects
 
@@ -21,9 +18,6 @@ I use TypeScript, React, Vue, and Flutter for interfaces, and Node.js, Python, a
 
 ## 中文
 
-我是 NCC，有六年软件开发经验，做过 Flutter 和 Vue 应用、企业管理与拍卖系统，以及医疗物联网集成。目前主要关注全栈开发、AI Agent 和 MCP 工具。
-
-界面开发使用 TypeScript、React、Vue 和 Flutter，后端使用 Node.js、Python 和 Java / Spring。
 
 ### 项目
 
